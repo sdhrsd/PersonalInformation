@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PersonalInformation</string>
+    <string name="labelFirstName">First Name</string>
+    <string name="textFirstName">First (given) name</string>
+    <string name="labelLastName">Last Name</string>
+    <string name="textLastName">Family (last) name</string>
+    <string name="labelAge">Age</string>
+    <string name="textAge">Age</string>
+    <string name="labelEmail">Email</string>
+    <string name="textEmail">Email</string>
+    <string name="labelPhone">Phone</string>
+    <string name="textPhone">Phone</string>
+    <string name="labelMajor">Major</string>
+    <string name="textMajor">Major</string>
+    <string name="labelDone">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="degreeHeading">SDSU Advanced Degrees</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
